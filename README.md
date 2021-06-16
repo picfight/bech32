@@ -13,7 +13,7 @@ Test vectors from BIP 173 are added to ensure compatibility with the BIP.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/decred/dcrd/bech32
+$ go get -u github.com/picfight/bech32
 ```
 
 ## Examples
